@@ -1,0 +1,22 @@
+# TODO List for Multi-Agent System for Deep Document Intelligence
+
+- [x] Set up Python virtual environment (venv)
+- [x] Create .env file for API keys
+- [x] Create .gitignore to exclude .env and venv
+- [x] Create requirements.txt with dependencies
+- [x] Create project directories: agents/, utils/, models/
+- [x] Implement utils/preprocessing.py for document chunking
+- [x] Implement utils/vector_db.py for FAISS vector database
+- [x] Define Pydantic models in models/output_models.py
+- [x] Create agents/summary_agent.py
+- [x] Create agents/action_agent.py
+- [x] Create agents/risk_agent.py
+- [x] Implement orchestrator.py using LangGraph
+- [x] Create main.py with FastAPI app and endpoint
+- [x] Activate virtual environment
+- [x] Install dependencies
+- [ ] Set up OpenAI API key in .env
+- [ ] Test the API endpoint with a sample document
+- [x] Generate performance metrics graph
+- [x] Create Streamlit frontend
+- [x] Run Streamlit app

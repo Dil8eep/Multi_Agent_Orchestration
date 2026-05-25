@@ -1,0 +1,12 @@
+openai
+langchain
+langchain-openai
+langchain-community
+langgraph
+faiss-cpu
+fastapi
+uvicorn
+pydantic
+python-dotenv
+matplotlib
+streamlit
